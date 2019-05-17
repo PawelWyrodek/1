@@ -1,0 +1,5 @@
+C:\Users\skipe\source\repos\Postacieaaa\Postacieaaa\obj\Debug\Postacieaaa.csprojAssemblyReference.cache
+C:\Users\skipe\source\repos\Postacieaaa\Postacieaaa\obj\Debug\Postacie.Form1.resources
+C:\Users\skipe\source\repos\Postacieaaa\Postacieaaa\obj\Debug\Postacieaaa.Properties.Resources.resources
+C:\Users\skipe\source\repos\Postacieaaa\Postacieaaa\obj\Debug\Postacieaaa.csproj.GenerateResource.cache
+C:\Users\skipe\source\repos\Postacieaaa\Postacieaaa\obj\Debug\Postacieaaa.csproj.CoreCompileInputs.cache

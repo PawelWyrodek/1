@@ -1,4 +1,4 @@
-﻿namespace Postacieaaa
+﻿namespace Postacie
 {
     partial class Form1
     {

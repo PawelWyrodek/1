@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Postacieaaa.Properties
+namespace Postac.Properties
 {
 
 

@@ -13,49 +13,18 @@ namespace Postacie
 {
     public partial class Form1 : Form
     {
+
+        List<Postac> postacie = new List<Postac>();
         public Form1()
         {
             InitializeComponent();
         }
 
-        public class Postac
+        for(int i = 0; i< 3; i++)
         {
-            string imie;
-            string hp;
-
-            public string PrzedstawSie(string imie)
-            {
-                return imie;
-            }
-
+          PrzedstawSie(postacie[i].imie)
         }
-
-        public class Wojownik : Postac
-        {
-
-        }
-
-        public class Mag : Postac
-        {
-
-        }
-
-        public class Rolnik : Postac
-        {
-
-        }
-
-        /*  jakbym zdefiniował listę to pętla by wyglądała tak
-            postacie[3]
-
-            for (int i = 0; i< 3; i++)
-            {
-              PrzedstawSie(postacie[i].imie)
-            }
-        */
-
-
-  
+        
         private void Form1_Load(object sender, EventArgs e)
         {
 
