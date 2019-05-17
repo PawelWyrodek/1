@@ -18,5 +18,15 @@ namespace Postac
         {
             return imie;
         }
+
+        postacie.add(new Wojownik("Zbyszko", '100'))
+
+        List<Postac> postacie = new List<Postac>();
+
+
+        for(int i = 0; i< 3; i++)
+        {
+          PrzedstawSie(postacie[i].imie)
+        }
     }
 }
